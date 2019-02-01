@@ -7,7 +7,7 @@ Feel free to use it in your projects :)
 Computes the inner product of two vectors of size N, where N can be customized.
 
 
-![Alt text](images/InnerProduct.PNG?raw=true "Inner product of two vectors")
+![Alt text](images/innerproduct.PNG?raw=true "Inner product of two vectors")
 
 ## MatrixAdder
 Sums two matrices. Sizes of both matrices and number of bits per position can be customized.
