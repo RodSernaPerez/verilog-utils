@@ -3,6 +3,11 @@ Some verilog modules that could be useful for different projects
 
 Feel free to use it in your projects :)
 
+## VectorProduct
+Computes the inner product of two vectors of size N, where N can be customized.
+
+
+![Alt text](images/InnerProduct.PNG?raw=true "Inner product of two vectors")
 
 ## MatrixAdder
 Sums two matrices. Sizes of both matrices and number of bits per position can be customized.
